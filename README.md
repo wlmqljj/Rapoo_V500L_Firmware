@@ -9,7 +9,7 @@ and also a fix for debounce delay too short.
 
 This update came form the uploading from warm-hearting friend posted to the tieba.baidu.com.
 A huge thanks to this friend!  
-___Use this with cation!!!___  
+___Use this with caution!!!___  
 ___Only for V500L manufactured before 2019!!!___  
 DO NOT remove any cable and DO NOT turn off your pc when flashing!!!  
 The process will automatically finished when you connect the keyboard.  
