@@ -3,7 +3,7 @@
 ### 1.Long pressing the tab key will jump to escape occasionly.
 ### 2.Debounce delay the stock holtek firmware ship with is set too short by Rapoo when the switch get aging.
 
-The update program contains in the 7z achieve named `V500L吃鸡失灵升级固件（含操作方法）.7z`  
+The update program contains in the 7z archive named `V500L吃鸡失灵升级固件（含操作方法）.7z`  
 The binary Windows exe files will flash the holtek mcu that fix the jumping escape when long press the tab key, 
 and also a fix for debounce delay too short.
 
